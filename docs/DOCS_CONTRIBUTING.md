@@ -1,3 +1,11 @@
+---
+status: canonical
+version: 1.0
+author: AnathemaOfficial
+last_updated: 2026-01-24
+tags: [documentation, contributing, policy]
+---
+
 # Contributing to SYF Documentation
 
 **Version:** 1.0  
