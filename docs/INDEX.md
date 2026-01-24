@@ -1,8 +1,12 @@
-# SYF Documentation Index
+---
+status: updated
+version: 1.0
+author: AnathemaOfficial
+last_updated: 2026-01-24
+tags: [documentation, index, navigation]
+---
 
-**Version:** 1.0  
-**Last Updated:** 2026-01-24  
-**Status:** Updated
+# SYF Documentation Index
 
 ---
 
