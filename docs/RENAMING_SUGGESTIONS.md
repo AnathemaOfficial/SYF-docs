@@ -29,11 +29,11 @@ These are high-level meta-documentation files. Renaming them would require:
 2. Updating any CI/CD workflows that may reference them
 3. Communicating the change to all contributors
 
-| Current Name | Suggested Name | Impact Assessment |
-|-------------|----------------|-------------------|
-| `DOCS_CONTRIBUTING.md` | `docs-contributing.md` | **HIGH** - Referenced in README.md and multiple docs. Central contribution guide. |
-| `INDEX.md` | `index.md` | **HIGH** - Main navigation file, referenced in README.md and throughout docs. |
-| `RECORD_OF_CHANGES.md` | `record-of-changes.md` | **MEDIUM** - Referenced in DOCS_CONTRIBUTING.md. Manual changelog. |
+| Current Name               | Suggested Name             | Impact Assessment |
+|----------------------------|----------------------------|-------------------|
+| `DOCS_CONTRIBUTING.md`     | `docs-contributing.md`     | **HIGH** - Referenced in README.md and multiple docs. Central contribution guide. |
+| `INDEX.md`                 | `index.md`                 | **HIGH** - Main navigation file, referenced in README.md and throughout docs. |
+| `RECORD_OF_CHANGES.md`     | `record-of-changes.md`     | **MEDIUM** - Referenced in DOCS_CONTRIBUTING.md. Manual changelog. |
 
 ---
 

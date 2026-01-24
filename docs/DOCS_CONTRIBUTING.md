@@ -8,6 +8,9 @@ tags: [documentation, contributing, policy]
 
 # Contributing to SYF Documentation
 
+**Version:** 1.0  
+**Last Updated:** 2026-01-24
+
 ---
 
 ## Overview

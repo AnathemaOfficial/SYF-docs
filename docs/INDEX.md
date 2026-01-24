@@ -8,6 +8,10 @@ tags: [documentation, index, navigation]
 
 # SYF Documentation Index
 
+**Version:** 1.0  
+**Last Updated:** 2026-01-24  
+**Status:** Updated
+
 ---
 
 ## Welcome
