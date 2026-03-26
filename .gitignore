@@ -1,0 +1,14 @@
+# Private documents
+docs/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
