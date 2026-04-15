@@ -8,9 +8,9 @@ tags: [audit, status, documentation]
 
 # SYFCORP LEGAL PACK — AUDIT STATUS
 
-**Analysis Date**: 2026-01-23
+**Analysis Date**: 2026-04-15
 
-**Version**: 0.1 — UPDATED
+**Version**: 0.2 — UPDATED
 
 ---
 
@@ -43,6 +43,15 @@ tags: [audit, status, documentation]
 | BOUNDARY_OF_LIABILITY | ✓ SEALED | Explicit liability separation |
 | TERMS_OF_NON_USE | ✓ SEALED | What is explicitly forbidden |
 | INVARIANTS | ✓ SEALED | Complete list I-1 through I-10 |
+
+### Implementation Documents (NEW — 2026-04-15)
+
+| Document | Status | Purpose |
+|----------|--------|---------|
+| SLIME-Core (specs + runner) | ✓ AUDITED | Formal specification, reference implementation |
+| SAFA (production adapter) | ✓ AUDITED | Multi-agent containment, P3 HELD |
+| Tordeur Audit Report | ✓ SEALED | Full adversarial audit cycle results |
+| SLIME/SAFA Stack Doc | ✓ CANONICAL | Implementation stack overview |
 
 ### Archive Files
 
@@ -110,31 +119,50 @@ SYFCORP inc.                        CANON PROTECTED
    │  [LEGAL_MAPPING]
    │
    ▼
-PRODUCTS (pending specs)
+PRODUCTS
+   │
+   │  [SLIME-Core]  →  formal spec, reference runner
+   │  [SLIME-Enterprise]  →  deployment layer (private)
+   │  [SAFA]  →  production adapter, multi-agent
+   │
+   ▼
+IMPLEMENTATIONS (audited 2026-04-15)
 ```
+
+---
+
+## IMPLEMENTATION STATUS (2026-04-15)
+
+| Repo | Tag | Tests | Audit Status |
+|------|-----|-------|-------------|
+| SLIME-Core | `v0.4.0-tordeur-alignment` | 12/12 | 9 HIGH closed |
+| SAFA | `v0.4.0-tordeur-complete` | 131/131 | 19 findings closed |
+| SLIME-Enterprise | `slime-enterprise-v0.3.0-tordeur-complete` | N/A | Aligned |
+
+See [Tordeur Audit Report](tordeur-audit-2026-04-15.md) for full details.
 
 ---
 
 ## RECOMMENDED NEXT STEPS
 
-### Immediate (This Week)
+### Immediate
 
 1. ✓ ~~BOUNDARY_OF_LIABILITY~~ — DONE
 2. ✓ ~~TERMS_OF_NON_USE~~ — DONE
 3. ✓ ~~INVARIANTS~~ — DONE
-4. Create **SYF_GATE_PRODUCT_SPEC_v0.1** — Commercial-ready specification
+4. ✓ ~~Tordeur audit cycle~~ — DONE (2026-04-15)
+5. Close remaining P4 follow-ups (IPv6 SSRF, type-enforced agent_id)
 
-### Short-term (Week 2-3)
+### Short-term
 
-5. Create **COMPLIANCE_CHECKLIST** — Self-audit tool
-6. Identify pilot client use-case
-7. Create private product repository
+6. Create **SYF_GATE_PRODUCT_SPEC_v0.1** — Commercial-ready specification
+7. Create **COMPLIANCE_CHECKLIST** — Self-audit tool
+8. CoreXalt Inc. incorporation (notaire, 2026-04-15)
 
-### Medium-term (Month 1)
+### Medium-term
 
-8. Add jurisdiction clauses if needed
-9. Prepare client engagement templates
-10. Consider notarization for key documents
+9. Add jurisdiction clauses post-incorporation
+10. Prepare client engagement templates
 
 ---
 

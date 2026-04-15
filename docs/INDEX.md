@@ -2,7 +2,7 @@
 status: updated
 version: 1.0
 author: AnathemaOfficial
-last_updated: 2026-01-24
+last_updated: 2026-04-15
 tags: [documentation, index, navigation]
 ---
 
@@ -58,6 +58,7 @@ docs/
 8. **[R Spec Template](3_implementation/r-spec-template.md)** — How to apply R
 9. **[R FAQ](3_implementation/r-faq.md)** — Common developer questions *(stub)*
 10. **[R Failure Modes](3_implementation/r-failure-modes.md)** — Failure analysis *(stub)*
+11. **[SLIME/SAFA Implementation Stack](3_implementation/slime-safa-stack.md)** — Full stack from SLIME-Core to SAFA production adapter
 
 ### For Product and Operations
 
@@ -78,6 +79,7 @@ docs/
 
 20. **[Audit Status](6_audit-and-status/audit-status.md)** — Document completion status
 21. **[Hashes](6_audit-and-status/hashes.md)** — Cryptographic verification hashes
+22. **[Tordeur Audit Report](6_audit-and-status/tordeur-audit-2026-04-15.md)** — Full adversarial security audit results (2026-04-15)
 
 ### For Communication
 

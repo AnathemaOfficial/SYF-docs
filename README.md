@@ -1,8 +1,8 @@
 # SYF Documentation
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Updated  
-**Last Updated:** 2026-01-24
+**Last Updated:** 2026-04-15
 
 ---
 
@@ -46,7 +46,12 @@ Start with the foundational documents:
 See the implementation section:
 
 - [R Spec Template](docs/3_implementation/r-spec-template.md) — How to apply R
+- [SLIME/SAFA Stack](docs/3_implementation/slime-safa-stack.md) — Full implementation stack (SLIME-Core to SAFA)
 - [Implementation section](docs/3_implementation/) — All implementation guides
+
+### For Security Audit
+
+- [Tordeur Audit Report](docs/6_audit-and-status/tordeur-audit-2026-04-15.md) — Full adversarial audit (2026-04-15)
 
 ### For Communication
 

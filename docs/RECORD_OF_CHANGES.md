@@ -21,6 +21,40 @@ For detailed commit history, use `git log`.
 
 ---
 
+## 2026-04-15 — Post-Tordeur Audit Alignment
+
+**Type:** Major (Implementation Documentation + Audit)
+**Status:** Completed
+**Branch:** `update/post-tordeur-2026-04-15`
+
+### Changes
+
+#### New Documents
+- `docs/3_implementation/slime-safa-stack.md` — Full implementation stack overview (SLIME-Core -> SLIME-Enterprise -> SAFA), architecture diagram, security audit summary, known limitations, cross-references
+- `docs/6_audit-and-status/tordeur-audit-2026-04-15.md` — Complete tordeur (adversarial security audit) report covering both SAFA and SLIME-Core repos
+
+#### Updated Documents
+- `docs/INDEX.md` — Added new docs to reading order (items 11, 22)
+- `docs/6_audit-and-status/audit-status.md` — Added implementation status table, updated recommended next steps, version bumped to 0.2
+- `README.md` — Added SLIME/SAFA Stack and Tordeur Audit links, version bumped to 1.1
+
+### Context
+
+SAFA and SLIME-Core completed a full adversarial audit cycle ("tordeur") on 2026-04-15:
+- 8 cooperative audits + 2 adversarial passes on SAFA (19 findings closed)
+- 1 alignment audit on SLIME-Core (9 HIGH, 14 MED, 7 LOW findings — all HIGH closed)
+- Tags: `v0.4.0-tordeur-complete` (SAFA), `v0.4.0-tordeur-alignment` (SLIME-Core)
+
+SYF-docs had not been updated since January 2026 and was missing all implementation documentation.
+
+### Impact
+
+- **Breaking:** None
+- **Non-Breaking:** 2 new canonical documents, 3 updated documents
+- **Repositories affected:** SYF-docs only (SAFA and SLIME-Core already updated independently)
+
+---
+
 ## 2026-01-24 — Automated Documentation Verification and Corrections
 
 **Type:** Minor (Compliance & Quality Fixes)  
