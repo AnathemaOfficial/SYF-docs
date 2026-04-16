@@ -1,4 +1,4 @@
-# SYFCORP inc.
+# Technologies CoreXalt Inc.
 
 **Systemic Security Products — Version 0.1 — PUBLIC**
 
@@ -6,14 +6,14 @@
 
 ## 1. Purpose
 
-SYFCORP inc. develops and distributes **security products founded on systemic laws**, designed to **structurally prevent** unauthorized actions, even when identities, keys, or agents are compromised.
+Technologies CoreXalt Inc. develops and distributes **security products founded on systemic laws**, designed to **structurally prevent** unauthorized actions, even when identities, keys, or agents are compromised.
 
-SYFCORP does not sell promises.
+Technologies CoreXalt Inc. does not sell promises.
 It sells **verifiable compliance with a law**.
 
 ## 2. What We Build
 
-SYFCORP designs **interposition modules** that sit **between intention and action**:
+Technologies CoreXalt Inc. designs **interposition modules** that sit **between intention and action**:
 
 **Anathema Soft:**
 
@@ -37,14 +37,14 @@ They **authorize or block** according to non-negotiable invariants.
 - No backdoors
 - No speculative tokens
 
-No SYFCORP product can modify the law it applies.
+No Technologies CoreXalt Inc. product can modify the law it applies.
 
 ## 4. Law vs Product (Critical Separation)
 
-The law used by SYFCORP products is defined and maintained by the **SYF Core Foundation**.
+The law used by Technologies CoreXalt Inc. products is defined and maintained by the **SYF Core Foundation**.
 
 - The Foundation **defines** the invariants.
-- SYFCORP **implements** compliant products.
+- Technologies CoreXalt Inc. **implements** compliant products.
 - Any non-compliance triggers **automatic revocation** of usage rights.
 
 This separation is **legal, technical, and operational**.
@@ -76,7 +76,7 @@ Security relies on **impossibility**, not alignment.
 
 ## 8. Legal Position
 
-SYFCORP:
+Technologies CoreXalt Inc.:
 
 - Operates products
 - Assumes client liability
@@ -87,11 +87,11 @@ The law remains **outside contract**.
 
 ## 9. Canonical Statement
 
-> *SYFCORP does not decide what is safe.*
+> *Technologies CoreXalt Inc. does not decide what is safe.*
 > *It enforces what cannot be unsafe.*
 
 ---
 
-**Status**: Public document — Version 0.1 — Referenced by all SYFCORP products — Compliant with LAW_USAGE_LICENSE.md
+**Status**: Public document — Version 0.1 — Referenced by all Technologies CoreXalt Inc. products — Compliant with LAW_USAGE_LICENSE.md
 
-*SYFCORP inc. — Systemic Security Products*
+*Technologies CoreXalt Inc. — Systemic Security Products*

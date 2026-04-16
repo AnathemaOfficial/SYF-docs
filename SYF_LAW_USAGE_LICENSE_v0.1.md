@@ -1,13 +1,13 @@
 # Law Usage License
 
-**SYF Core Foundation → SYFCORP inc. — Version 0.1 — CANONICAL DRAFT**
+**SYF Core Foundation → Technologies CoreXalt Inc. — Version 0.1 — CANONICAL DRAFT**
 
 ---
 
 ## Parties
 
 - **Licensor**: SYF Core Foundation
-- **Licensee**: SYFCORP inc.
+- **Licensee**: Technologies CoreXalt Inc.
 
 ## 1. Purpose
 
@@ -118,6 +118,6 @@ SYF law is **outside contract**.
 
 ---
 
-**Status**: CANONICAL DRAFT — Intended for sealing (PDF + hash) — Referenced by all SYFCORP products
+**Status**: CANONICAL DRAFT — Intended for sealing (PDF + hash) — Referenced by all Technologies CoreXalt Inc. products
 
 *Document prepared for SYF Core Foundation — All rights reserved under canonical law*

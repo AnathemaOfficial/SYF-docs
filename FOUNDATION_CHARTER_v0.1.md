@@ -67,18 +67,18 @@ The law is **mathematically sealed**, not socially negotiated.
 - Accept amendments
 - Negotiate exceptions
 
-## Relationship to SYFCORP
+## Relationship to Technologies CoreXalt Inc.
 
-The Foundation grants SYFCORP inc. a **conditional, non-exclusive license** to implement SYF Core in commercial products.
+The Foundation grants Technologies CoreXalt Inc. a **conditional, non-exclusive license** to implement SYF Core in commercial products.
 
 This license is:
 
-- Unilateral (Foundation → SYFCORP)
+- Unilateral (Foundation → Technologies CoreXalt Inc.)
 - Conditional (compliance required)
 - Revocable (automatic upon violation)
 - Non-transferable
 
-**SYFCORP cannot modify, extend, or interpret the law.**
+**Technologies CoreXalt Inc. cannot modify, extend, or interpret the law.**
 
 ## Canonical Principles
 

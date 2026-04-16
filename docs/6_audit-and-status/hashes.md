@@ -6,7 +6,7 @@ last_updated: 2026-01-24
 tags: [audit, hashes, verification]
 ---
 
-# SYFCORP Foundation Archive — Cryptographic Hashes
+# Technologies CoreXalt Inc. Foundation Archive — Cryptographic Hashes
 
 **Generated:** 2026-01-23T19:19:33.776301  
 **Algorithm:** SHA-256  
@@ -26,7 +26,7 @@ This document contains SHA-256 cryptographic hashes for all sealed PDF documents
 SHA256(SYF_LAW_USAGE_LICENSE_v0.1.pdf) =
   f2dca58687d0d81f3b31a158b0d463fb41279856a32538b3605ffe29a4eb3733
 
-SHA256(SYFCORP_OVERVIEW_v0.1.pdf) =
+SHA256(Technologies CoreXalt Inc._OVERVIEW_v0.1.pdf) =
   8cf02746219d194e69b693a6900a8689790a4440b6d62404ff93a00961f3f277
 
 SHA256(ARCHITECTURE_CANON_v0.1.pdf) =

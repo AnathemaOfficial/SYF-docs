@@ -83,7 +83,7 @@ ANATHEMA HARD
 
 ## Product / Startup Mapping
 
-**Commercializable (SYFCORP):**
+**Commercializable (Technologies CoreXalt Inc.):**
 
 - Anathema Soft
 - Anathema-Breaker
