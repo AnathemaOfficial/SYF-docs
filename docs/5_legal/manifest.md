@@ -33,7 +33,7 @@ The following documents are included in this sealed archive:
 - SYF_LAW_USAGE_LICENSE_v0.1.pdf
 - FOUNDATION_CHARTER_v0.1.pdf
 - LEGAL_MAPPING_v0.1.pdf
-- Technologies CoreXalt Inc._OVERVIEW_v0.1.pdf
+- SYFCORP_OVERVIEW_v0.1.pdf
 - ARCHITECTURE_CANON_v0.1.pdf
 - BOUNDARY_OF_LIABILITY_v0.1.pdf
 - TERMS_OF_NON_USE_v0.1.pdf
