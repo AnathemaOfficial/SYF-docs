@@ -11,7 +11,7 @@ tags: [legal, liability, boundaries]
 **Status:** SEALED (PDF Reference)  
 **Version:** 0.1
 
-This document defines the explicit separation of liability between SYF Core Foundation and Technologies CoreXalt Inc..
+This document defines the explicit separation of liability between SYF Core Foundation and Technologies CoreXalt Inc.
 
 ## Canonical Document
 

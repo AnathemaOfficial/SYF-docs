@@ -28,7 +28,7 @@ tags: [audit, status, documentation]
 
 | Document | Status | Purpose |
 |----------|--------|---------|
-| Technologies CoreXalt Inc._OVERVIEW | ✓ SEALED | Company presentation (1 page, cold) |
+| SYFCORP_OVERVIEW | ✓ SEALED | Company presentation (1 page, cold) |
 
 ### Architectural Documents
 
@@ -112,9 +112,9 @@ SYF Core Foundation
    │  [INVARIANTS]                        │
    │                                      │
    ▼                                      ▼
-Technologies CoreXalt Inc.                        CANON PROTECTED
+Technologies CoreXalt Inc.              CANON PROTECTED
    │
-   │  [Technologies CoreXalt Inc._OVERVIEW]
+   │  [SYFCORP_OVERVIEW]
    │  [ARCHITECTURE_CANON]
    │  [LEGAL_MAPPING]
    │
