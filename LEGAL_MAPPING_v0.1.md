@@ -1,6 +1,6 @@
 # Legal Mapping
 
-**SYF Core Foundation ↔ SYFCORP inc. — Version 0.1 — CANONICAL**
+**SYF Core Foundation ↔ Technologies CoreXalt Inc. — Version 0.1 — CANONICAL**
 
 ---
 
@@ -28,7 +28,7 @@
 → **The Foundation is immobile, cold, neutral.**
 It does not "build" anything: it **defines what cannot be broken**.
 
-## SYFCORP inc.
+## Technologies CoreXalt Inc.
 
 **Role: Product Operator**
 
@@ -58,7 +58,7 @@ It does not "build" anything: it **defines what cannot be broken**.
 - Cannot "patch" the law
 - Cannot promise anything beyond law compliance
 
-→ **SYFCORP does not invent the rule.**
+→ **Technologies CoreXalt Inc. does not invent the rule.**
 It **sells submission to it**.
 
 ## Legal Link Between the Two (Absolute Key)
@@ -70,7 +70,7 @@ SYF Core Foundation
        │  non-exclusive
        │  revocable if violated
        ▼
-SYFCORP inc.
+Technologies CoreXalt Inc.
 ```
 
 **License Type (Canonical):**
@@ -82,12 +82,12 @@ SYFCORP inc.
   - No governance added
   - No direct access to reality
 
-→ **If SYFCORP violates the law → license dies automatically.**
+→ **If Technologies CoreXalt Inc. violates the law → license dies automatically.**
 No lawsuit necessary. It is **structural**.
 
 ## Separation of Responsibilities
 
-| Subject | Foundation | SYFCORP |
+| Subject | Foundation | CoreXalt |
 |---------|-----------|---------|
 | Law / invariants | ✓ | ✗ |
 | Products | ✗ | ✓ |
@@ -96,18 +96,18 @@ No lawsuit necessary. It is **structural**.
 | Support | ✗ | ✓ |
 | Client legal liability | ✗ | ✓ |
 
-→ **Product failure**: SYFCORP
+→ **Product failure**: Technologies CoreXalt Inc.
 → **Theoretical debate**: Foundation
 → **Systemic attack**: the law remains intact
 
 ## Canonical Formula
 
 > *The Foundation defines what is true.*
-> *SYFCORP sells what is compliant.*
+> *Technologies CoreXalt Inc. sells what is compliant.*
 
 ## Strategic Effect
 
-- Launch SYFCORP **without exposing the core**
+- Launch Technologies CoreXalt Inc. **without exposing the core**
 - Attract **serious clients**
 - Refuse **any client** without justification
 - Be **quantum-safe legally** (no central key)

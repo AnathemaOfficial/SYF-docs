@@ -24,7 +24,7 @@ No liability crosses these boundaries.
 - Provides no services.
 - Assumes **no operational, commercial, or legal liability**.
 
-**SYFCORP inc.:**
+**Technologies CoreXalt Inc.:**
 
 - Designs and distributes products compliant with the law.
 - Assumes liability **limited to the product as implementation**.
@@ -64,7 +64,7 @@ It cannot be circumvented by contract, amendment, or interpretation.
 
 ## 6. Liability Matrix
 
-| Subject | Foundation | SYFCORP | Client |
+| Subject | Foundation | CoreXalt | Client |
 |---------|-----------|---------|--------|
 | Law definition | ✓ | ✗ | ✗ |
 | Product implementation | ✗ | ✓ | ✗ |
@@ -89,6 +89,6 @@ This boundary:
 
 ---
 
-**Status**: CANONICAL — Referenced by all SYF / SYFCORP documents — Non-negotiable
+**Status**: CANONICAL — Referenced by all SYF / Technologies CoreXalt Inc. documents — Non-negotiable
 
 *SYF Core Foundation — Boundary of Liability v0.1*

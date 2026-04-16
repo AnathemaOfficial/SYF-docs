@@ -6,7 +6,7 @@ last_updated: 2026-01-24
 tags: [audit, status, documentation]
 ---
 
-# SYFCORP LEGAL PACK — AUDIT STATUS
+# Technologies CoreXalt Inc. LEGAL PACK — AUDIT STATUS
 
 **Analysis Date**: 2026-04-15
 
@@ -20,7 +20,7 @@ tags: [audit, status, documentation]
 
 | Document | Status | Purpose |
 |----------|--------|---------|
-| LAW_USAGE_LICENSE | ✓ SEALED | License from Foundation to SYFCORP |
+| LAW_USAGE_LICENSE | ✓ SEALED | License from Foundation to Technologies CoreXalt Inc. |
 | FOUNDATION_CHARTER | ✓ SEALED | Foundation governing document |
 | LEGAL_MAPPING | ✓ SEALED | Foundation ↔ Corp legal structure |
 
@@ -28,7 +28,7 @@ tags: [audit, status, documentation]
 
 | Document | Status | Purpose |
 |----------|--------|---------|
-| SYFCORP_OVERVIEW | ✓ SEALED | Company presentation (1 page, cold) |
+| Technologies CoreXalt Inc._OVERVIEW | ✓ SEALED | Company presentation (1 page, cold) |
 
 ### Architectural Documents
 
@@ -112,9 +112,9 @@ SYF Core Foundation
    │  [INVARIANTS]                        │
    │                                      │
    ▼                                      ▼
-SYFCORP inc.                        CANON PROTECTED
+Technologies CoreXalt Inc.                        CANON PROTECTED
    │
-   │  [SYFCORP_OVERVIEW]
+   │  [Technologies CoreXalt Inc._OVERVIEW]
    │  [ARCHITECTURE_CANON]
    │  [LEGAL_MAPPING]
    │
@@ -175,4 +175,4 @@ See [Tordeur Audit Report](tordeur-audit-2026-04-15.md) for full details.
 
 ---
 
-*SYFCORP Legal Pack Audit — v0.1 UPDATED*
+*Technologies CoreXalt Inc. Legal Pack Audit — v0.1 UPDATED*
